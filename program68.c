@@ -5,6 +5,6 @@ int n;
 printf("enter an integer\n");
 scanf("%d",&n);
 n=n + (7- n % 7);
-printf("the nearest great mul of 10 is%d\n",n);
+printf("the nearest great mul of 7 is%d\n",n);
 return 0;
 }
